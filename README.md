@@ -1,6 +1,6 @@
 # Breno Zanon
  
-**Desenvolvedor Full Stack & Analista de Dados** · Juiz de Fora, MG — Brasil
+**Desenvolvedor Full Stack & Dados** · Juiz de Fora, MG — Brasil
  
 > Do dado bruto à interface onde a decisão acontece.
  
